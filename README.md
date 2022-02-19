@@ -18,9 +18,9 @@ The repository is organized in the same way as the practical sessions. For each 
 |Session|Initial Session Files|Final Session Files|Weekly Assignment Solutions|
 |-------|---------------------|---------------------|---------------------------|
 |01_introduction_to_sql_01|🟢 Publised 18/02/22|🟢 Published 18/02/22|🟢 Published 18/02/22|
-|02_introduction_to_sql_02|🟢 Publised 18/02/22|🟢 Published 18/02/22|🟨 Scheduled 19/02/22|
-|03_mapping_er_to_tables|🟢 Publised 18/02/22|🟨 Scheduled 19/02/22|🟨 Scheduled 26/02/22|
-|04_introduction_to_sql_03|🟨 Scheduled 21/02/22|🟨 Scheduled 26/02/22|🟨 Scheduled 05/03/22|
+|02_introduction_to_sql_02|🟢 Publised 18/02/22|🟢 Published 18/02/22|🟢 Published 18/02/22|
+|03_mapping_er_to_tables|🟢 Publised 18/02/22|🟢 Published 18/02/22|🟢 Published 18/02/22|
+|04_introduction_to_sql_03|🟨 Scheduled 21/02/22|🟨 Scheduled 26/02/22|🟨 Scheduled 26/02/22|
 |05_introduction_to_sql_04|🔻 Unpublished|🔻 Unpublished|🔻 Unpublished|
 |06_pl_sql_01|🔻 Unpublished|🔻 Unpublished|🔻 Unpublished|
 |07_pl_sql_02|🔻 Unpublished|🔻 Unpublished|🔻 Unpublished|
